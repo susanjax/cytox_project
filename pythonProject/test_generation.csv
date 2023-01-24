@@ -1,0 +1,14 @@
+﻿cell line,test,material,source,organism,cell type,morphology,tissue,disease,time (hr),concentration (ug/ml),Hydrodynamic diameter (nm),Zeta potential (mV),mcd,electronegativity,rox,radii,Valance_electron,amw,lipinskiHBA,lipinskiHBD,NumRotatableBonds,CrippenClogP,chi0v,chi1v,chi2v,hallKierAlpha,kappa1
+HepG2,CCK-8,SiO2,original,Human,Human,epithelial,liver,Carcinoma,2,7.8,47.9,71.7,7.407407407,2.926666667,-1.2,1.1,16,60.084,2,0,0,-0.6184,2.316496581,1.224744871,0,-0.183116883,2.816883117
+HepG2,CCK-8,SiO2,original,Human,Human,epithelial,liver,Carcinoma,2,2.5,47.9,71.7,7.407407407,2.926666667,-1.2,1.1,16,60.084,2,0,0,-0.6184,2.316496581,1.224744871,0,-0.183116883,2.816883117
+HepG2,CCK-8,SiO2,original,Human,Human,epithelial,liver,Carcinoma,2,5,47.9,71.7,7.407407407,2.926666667,-1.2,1.1,16,60.084,2,0,0,-0.6184,2.316496581,1.224744871,0,-0.183116883,2.816883117
+HepG2,CCK-8,SiO2,original,Human,Human,epithelial,liver,Carcinoma,2,7.5,47.9,71.7,7.407407407,2.926666667,-1.2,1.1,16,60.084,2,0,0,-0.6184,2.316496581,1.224744871,0,-0.183116883,2.816883117
+HepG2,CCK-8,SiO2,original,Human,Human,epithelial,liver,Carcinoma,2,10,47.9,71.7,7.407407407,2.926666667,-1.2,1.1,16,60.084,2,0,0,-0.6184,2.316496581,1.224744871,0,-0.183116883,2.816883117
+HepG2,CCK-8,SiO2,original,Human,Human,epithelial,liver,Carcinoma,2,25,47.9,71.7,7.407407407,2.926666667,-1.2,1.1,16,60.084,2,0,0,-0.6184,2.316496581,1.224744871,0,-0.183116883,2.816883117
+HepG2,CCK-8,SiO2,original,Human,Human,epithelial,liver,Carcinoma,2,50,47.9,71.7,7.407407407,2.926666667,-1.2,1.1,16,60.084,2,0,0,-0.6184,2.316496581,1.224744871,0,-0.183116883,2.816883117
+HepG2,CCK-8,SiO2,original,Human,Human,epithelial,liver,Carcinoma,2,100,47.9,71.7,7.407407407,2.926666667,-1.2,1.1,16,60.084,2,0,0,-0.6184,2.316496581,1.224744871,0,-0.183116883,2.816883117
+HepG2,CCK-8,SiO2,original,Human,Human,epithelial,liver,Carcinoma,2,7.8,47.9,71.7,7.407407407,2.926666667,-1.2,1.1,16,60.084,2,0,0,-0.6184,2.316496581,1.224744871,0,-0.183116883,2.816883117
+HepG2,CCK-8,SiO2,original,Human,Human,epithelial,liver,Carcinoma,6,7.8,47.9,71.7,7.407407407,2.926666667,-1.2,1.1,16,60.084,2,0,0,-0.6184,2.316496581,1.224744871,0,-0.183116883,2.816883117
+HepG2,CCK-8,SiO2,original,Human,Human,epithelial,liver,Carcinoma,12,7.8,47.9,71.7,7.407407407,2.926666667,-1.2,1.1,16,60.084,2,0,0,-0.6184,2.316496581,1.224744871,0,-0.183116883,2.816883117
+HepG2,CCK-8,SiO2,original,Human,Human,epithelial,liver,Carcinoma,24,7.8,47.9,71.7,7.407407407,2.926666667,-1.2,1.1,16,60.084,2,0,0,-0.6184,2.316496581,1.224744871,0,-0.183116883,2.816883117
+HepG2,CCK-8,SiO2,original,Human,Human,epithelial,liver,Carcinoma,48,7.8,47.9,71.7,7.407407407,2.926666667,-1.2,1.1,16,60.084,2,0,0,-0.6184,2.316496581,1.224744871,0,-0.183116883,2.816883117
